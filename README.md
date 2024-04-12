@@ -3,6 +3,8 @@
 # reversed
 Documenting the process of game-related reverse engineering
 
+Finished:
+- Reverse Engineering an Unknown File Format (![read](https://github.com/zwoly/reversed/blob/main/reverse-engineering-an-unknown-file-format.md))
 
 Upcoming:
-- Reverse Engineering an Unknown File Format
+- Basics of Reverse Engineering
